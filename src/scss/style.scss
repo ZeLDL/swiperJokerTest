@@ -1,0 +1,8 @@
+@import '../css/normalize';
+@import '../scss/fonts/fonts';
+@import './variables/variables';
+@import './base.scss';
+
+@import './blocks/header/header';
+@import './blocks/footer/footer';
+@import './blocks/swiper__banner/swiper__banner'
