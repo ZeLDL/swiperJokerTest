@@ -1,5 +1,5 @@
 .footer {
-    margin-top: 1600px;
+    margin-top: 1500px;
     display: flex;
     justify-content: center;
     margin-bottom: 0;
@@ -16,7 +16,7 @@
         .footer__wrapper-title {
             display: flex;
             justify-content: center;
-            margin-top: 350px;
+            margin-top: 400px;
             margin-bottom: 32px;
             width: 100%;
             height: 100%;
@@ -170,6 +170,8 @@
                     margin-bottom: 26px;
                 }
                 .contacts-link {
+                    font-size: 14px;
+                    line-height: 20px;
                     margin-left: 32px;
                     &:first-child {
                         margin-left: 0;
@@ -186,6 +188,7 @@
                 }
                 &:nth-of-type(3) {
                     width: 115px;
+                    margin-left: 10px;
                 }
                 .autor {
                     text-align: end;
@@ -214,7 +217,7 @@
                 justify-content: start;
                 width: 200px;
                 height: 90px;
-                margin-left: 40px;
+                margin-left: 15px;
                 .logo-card{
                     &_1 {
                         width: 70px;
