@@ -763,12 +763,14 @@ a {
       width: 90px;
       height: 100px;
       background-color: rgba(0, 0, 0, 0.6);
-      margin-right: -10px; }
+      margin-right: -10px;
+      margin-top: -50px; }
     .swiper .swiper-banner .swiper-button-prev_banner {
       width: 90px;
       height: 100px;
       background-color: rgba(0, 0, 0, 0.6);
-      margin-left: -10px; }
+      margin-left: -10px;
+      margin-top: -50px; }
     .swiper .swiper-banner .swiper-button-next_banner::after {
       width: 33px;
       height: 64px;
